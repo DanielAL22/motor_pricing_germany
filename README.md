@@ -98,6 +98,9 @@ Se han llevado a cabo las siguientes tareas:
 
 ## Uso
 La aplicación resultante del análisis y desarrollo de las distintas partes del proyecto se encuentra en el siguiente [enlace](https://motorpricingermany.streamlit.app/).
-Se pueden consultar las distintas fases de limpieza y análisis de datos en los archivos .ipynb
-Puedes ver el notebook de forma interactiva en [nbviewer](https://nbviewer.jupyter.org/url/github.com/tu_usuario/tu_repositorio/blob/master/tu_archivo.ipynb).
+
+Se pueden consultar las distintas fases de limpieza y análisis de datos en los archivos .ipynb. Es posible que GitHub de problemas para visualizar los archivos completos por su extensión, en este caso deberían descargarse y abrirse con algún editor de código como Jupyter Notebook o Visual Studio Code
+
+## Conclusiones
+Este proyecto abordó un problema de regresión donde buscábamos predecir el precio de vehículos de segunda mano a partir de datos históricos de ventas. El análisis de las variables, su transformación y el tratamiento de los datos nulos permitieron llevar a cabo una modelación predictiva satisfactoria. El modelo resultante fue insertado dentro de una aplicación para lo cual se utilizó Streamlit. Despues de las adaptaciones necesarias para el tratamiento de los datos de entrada y de salida al modelo; y del desarrollo de la interfaz visual de la aplicación, esta fue desplegada en la nube, desde donde es accesible de manera remota. Como ideas de mejora se podría plantear el reentrenamiento con data actualizada, la inclusión de más variables, explorar el funcionamiento de otros modelos u combinaciones de hiperparámetros o probar con nuevas estrategias de tratamiento de los datos.
 
