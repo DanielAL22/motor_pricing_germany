@@ -42,10 +42,10 @@ st.markdown("""***""")
 # Barra lateral
 
 # Ruta relativa a la imagen en la misma carpeta que el archivo .py
-#ruta_imagen = "img.png"
+ruta_imagen = "img.png"
 
 # Mostrar la imagen en el panel lateral
-#st.sidebar.image(ruta_imagen, use_column_width=True)
+st.sidebar.image(ruta_imagen, use_column_width=True)
 
 
 
