@@ -96,14 +96,8 @@ Se han llevado a cabo las siguientes tareas:
 - Desarrollo de la aplicación con Streamlit y Python
 - Despliegue de la misma en la nube
 
-## Contenido del repositorio
-El proyecto consta de los siguientes archivos:
-
-- **desafio1_sentimientos_twitter_daniel_almeria.ipynb**: archivo con estructura de notebook que contiene el desarrollo del proyecto con todas sus fases: preprocesamiento, procesamiento de lenguaje, modelamiento predictivo, evaluación de métricas, serialización de modelos y propuestas de mejoras.
-
-- **funciones_auxiliares_desafio1.py**: archivo con las funciones auxiliares utilizadas para el desarrollo del proyecto.
-  
-- **training_tweets.csv**: base de datos con los tweets y sus respectivos sentimientos.
-
-- **modelos predictivos**: serialización de los modelos resultantes. Consultar sección **Uso** para su obtención
+## Uso
+La aplicación resultante del análisis y desarrollo de las distintas partes del proyecto se encuentra en el siguiente [enlace](https://motorpricingermany.streamlit.app/).
+Se pueden consultar las distintas fases de limpieza y análisis de datos en los archivos .ipynb
+Puedes ver el notebook de forma interactiva en [nbviewer](https://nbviewer.jupyter.org/url/github.com/tu_usuario/tu_repositorio/blob/master/tu_archivo.ipynb).
 
